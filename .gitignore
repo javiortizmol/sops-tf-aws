@@ -1,0 +1,3 @@
+secrets/*/*
+!secrets/*/*.encrypted
+!secrets/*/*.enc.yaml
